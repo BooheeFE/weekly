@@ -10,5 +10,5 @@
 - [2018/06/07 - 低门槛彻底理解JavaScript中的深拷贝和浅拷贝](https://github.com/BooheeFE/weekly/issues/1)
 - [2018/06/08 - 10分钟了解JS堆、栈以及事件循环的概念](https://github.com/BooheeFE/weekly/issues/2)
 
-### 欢迎参与
+### 欢迎参与
 如果你也恰好热爱技术、喜欢写文章，欢迎给weekly投稿，格式请按照ISSUE_TEMPLATE[发布新文章](https://github.com/BooheeFE/weekly/issues/new?template=new+article.md)，让我们一起帮助更多人！
