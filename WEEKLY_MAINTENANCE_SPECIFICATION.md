@@ -12,5 +12,6 @@
 - 吴胜斌[@simbawus](https://github.com/simbawus)
 - 刘洪运[@lance10030](https://github.com/lance10030)
 - 席焱鑫[@Xpig4432xyx](https://github.com/Xpig4432xyx)
+- 白凡[@Baifann](https://github.com/Baifann)
 
 欢迎更多人加入！👏
