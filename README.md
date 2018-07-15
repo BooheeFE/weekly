@@ -7,6 +7,7 @@
 每周至少一篇原创技术分享在[Issues](https://github.com/BooheeFE/weekly/issues)，可能来自基础回顾、工作总结、新技术探索等等，希望能够给一起走在前端路上的你带来一点小小的帮助，有问题可以在文章下面留言，欢迎Watch & Star ★
 
 ### 近期weekly
+- [2018/07/15 - JavaScript中的垃圾回收和内存泄漏](https://github.com/BooheeFE/weekly/issues/8)
 - [2018/07/08 - 异常处理，"try..catch"(译)](https://github.com/BooheeFE/weekly/issues/7)
 - [2018/07/06 - 浅谈web前端的发展趋势](https://github.com/BooheeFE/weekly/issues/6)
 - [2018/06/24 - 从0开始发布一个无依赖、高质量的npm](https://github.com/BooheeFE/weekly/issues/5)
