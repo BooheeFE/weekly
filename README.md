@@ -7,6 +7,8 @@
 每周至少一篇原创技术分享在[Issues](https://github.com/BooheeFE/weekly/issues)，可能来自基础回顾、工作总结、新技术探索等等，希望能够给一起走在前端路上的你带来一点小小的帮助，有问题可以在文章下面留言，欢迎Watch & Star ★
 
 ### 近期weekly
+
+- [2018/08/06 - chrome devtools 官方文档阅读笔记(十分钟上手performance面板的基本使用)](https://github.com/BooheeFE/weekly/issues/11)
 - [2018/07/29 - 微信小程序如何使用iconfont?](https://github.com/BooheeFE/weekly/issues/10)
 - [2018/07/22 - Vue-cli原理分析](https://github.com/BooheeFE/weekly/issues/9)
 - [2018/07/15 - JavaScript中的垃圾回收和内存泄漏](https://github.com/BooheeFE/weekly/issues/8)
