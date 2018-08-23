@@ -1,6 +1,10 @@
 <p align="center">
 	<img width="200" height="200" src="assets/img/logo.png" alt="logo">
-	<p align="center">BooheeFE Weekly</p>
+</p>
+<p align="center">
+	<a href="https://juejin.im/user/5b1de502e51d4506cf10bc34">
+		<img src="https://img.shields.io/badge/掘金-薄荷前端-blue.svg" alt="">
+	</a>
 </p>
 
 ## 薄荷前端周刊
