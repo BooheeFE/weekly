@@ -11,11 +11,11 @@
 </p>
 
 ## 薄荷前端周刊
-- 每周至少一篇技术分享在[Issues](https://github.com/BooheeFE/weekly/issues)，希望能够给一起走在前端路上的你带来一点小小的帮助 ⸝⸝⸝⸝◟̆◞̆♡
-- 文章均为原创，可能来自基础回顾、工作总结、新技术探索等等 ଲଇଉକ
-- 有问题可以在文章下面留言，我们尽可能解答 ⚆_⚆
-- [Watch](https://github.com/BooheeFE/weekly/watchers)即可自动订阅，新文章发布后第一时间推送到您的邮箱 ʕ•̫͡•ོʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ 
-- 开源需动力，[Star](https://github.com/BooheeFE/weekly/stargazers)是最好的赞美 ❛‿˂̵✧
+- 😁 每周至少一篇技术分享在[Issues](https://github.com/BooheeFE/weekly/issues)，希望能够给一起走在前端路上的你带来一点小小的帮助 ⸝⸝⸝⸝◟̆◞̆♡
+- ✍️ 文章均为原创，可能来自基础回顾、工作总结、新技术探索等等 ଲଇଉକ
+- ❓ 有问题可以在文章下面留言，我们尽可能解答 ⚆_⚆
+- 📩 [Watch](https://github.com/BooheeFE/weekly/watchers) 即可自动订阅，新文章发布后第一时间推送到您的邮箱 ʕ•̫͡•ོʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ 
+- 💖 开源需动力，[Star](https://github.com/BooheeFE/weekly/stargazers) 是最好的赞美 ❛‿˂̵✧
 
 ### 近期weekly
 
