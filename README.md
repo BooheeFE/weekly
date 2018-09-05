@@ -3,10 +3,10 @@
 </p>
 <p align="center">
 	<a href="https://segmentfault.com/u/boohee">
-		<img src="https://img.shields.io/badge/segmentfault-薄荷前端-blue.svg?colorA=419766&colorB=999999" alt="">
+		<img src="https://img.shields.io/badge/segmentfault-薄荷前端-blue.svg?colorA=419766&colorB=5c5c5c" alt="">
 	</a>
 	<a href="https://juejin.im/user/5b1de502e51d4506cf10bc34">
-		<img src="https://img.shields.io/badge/掘金-薄荷前端-blue.svg?colorA=246ff6&colorB=999999" alt="">
+		<img src="https://img.shields.io/badge/掘金-薄荷前端-blue.svg?colorA=246ff6&colorB=5c5c5c" alt="">
 	</a>
 </p>
 
