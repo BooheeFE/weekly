@@ -19,7 +19,7 @@
 
 ### 近期weekly
 
-- [2018/09/04 - 10分钟理解JS的函数节流、函数防抖和使用场景](https://github.com/BooheeFE/weekly/issues/13)
+- [2018/09/04 - 7分钟理解JS的节流、防抖及使用场景](https://github.com/BooheeFE/weekly/issues/13)
 - [2018/08/13 - 前端可视化构建工具——Vue UI & 阿里飞冰](https://github.com/BooheeFE/weekly/issues/12)
 - [2018/08/06 - chrome devtools 官方文档阅读笔记(十分钟上手performance面板的基本使用)](https://github.com/BooheeFE/weekly/issues/11)
 - [2018/07/29 - 微信小程序如何使用iconfont?](https://github.com/BooheeFE/weekly/issues/10)
