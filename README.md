@@ -19,6 +19,7 @@
 
 ### 近期weekly
 
+- [2018/09/09 - 不可或缺的正则手册](https://github.com/BooheeFE/weekly/issues/15)
 - [2018/09/07 - 从0到1使用React构建一个 github star管理工具 系列一（前期准备篇)](https://github.com/BooheeFE/weekly/issues/14)
 - [2018/09/04 - 7分钟理解JS的节流、防抖及使用场景](https://github.com/BooheeFE/weekly/issues/13)
 - [2018/08/13 - 前端可视化构建工具——Vue UI & 阿里飞冰](https://github.com/BooheeFE/weekly/issues/12)
