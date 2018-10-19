@@ -19,7 +19,10 @@
 
 ### 近期weekly
 
-- [2018/10/15 - 10分钟让你成为[小]全栈工程师-koa快速入门](https://github.com/BooheeFE/weekly/issues/19)
+- [2018/10/15 -【从前端到全栈】- koa快速入门指南](https://github.com/BooheeFE/weekly/issues/19)
+- [2018/10/15 - 前端骨架屏方案小结](https://github.com/BooheeFE/weekly/issues/18)
+- [2019/09/25 - 你应该知道的相对路径与绝对路径 ](https://github.com/BooheeFE/weekly/issues/17)
+- [2019/09/18 - 三大图表库：ECharts 、 BizCharts 和 G2，该如何选择](https://github.com/BooheeFE/weekly/issues/16)
 - [2018/09/09 - 不可或缺的正则手册](https://github.com/BooheeFE/weekly/issues/15)
 - [2018/09/07 -【React 实战教程：第一节】从0到1 构建 github star管理工具 ：前期准备](https://github.com/BooheeFE/weekly/issues/14)
 - [2018/09/04 - 7分钟理解JS的节流、防抖及使用场景](https://github.com/BooheeFE/weekly/issues/13)
