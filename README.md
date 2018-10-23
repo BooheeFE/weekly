@@ -18,7 +18,7 @@
 - 💖 开源需动力，[Star](https://github.com/BooheeFE/weekly/stargazers) 是最好的赞美 ❛‿˂̵✧
 
 ### 近期weekly
-- [2018/10/23 -云开发初探——快速入门搭建云开发项目](https://github.com/BooheeFE/weekly/issues/20)
+- [2018/10/23 - 云开发初探——快速入门搭建云开发项目](https://github.com/BooheeFE/weekly/issues/20)
 - [2018/10/15 -【从前端到全栈】- koa快速入门指南](https://github.com/BooheeFE/weekly/issues/19)
 - [2018/10/15 - 前端骨架屏方案小结](https://github.com/BooheeFE/weekly/issues/18)
 - [2019/09/25 - 你应该知道的相对路径与绝对路径 ](https://github.com/BooheeFE/weekly/issues/17)
