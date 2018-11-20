@@ -18,6 +18,7 @@
 - 💖 开源需动力，[Star](https://github.com/BooheeFE/weekly/stargazers) 是最好的赞美 ❛‿˂̵✧
 
 ### 近期weekly
+- [2018/11/20 - webpack原理与实践（二）：实现一个webpack插件](https://github.com/BooheeFE/weekly/issues/25)
 - [2018/11/05 - 两种方案实现小程序动画](https://github.com/BooheeFE/weekly/issues/24)
 - [2018/11/05 - webpack 原理与实践（一）：打包流程](https://github.com/BooheeFE/weekly/issues/23)
 - [2018/11/05 - React和Vue中，是如何监听变量变化的](https://github.com/BooheeFE/weekly/issues/22)
