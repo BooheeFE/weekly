@@ -19,6 +19,9 @@
 
 ### 近期weekly
 
+- [2019/01/14 - 从前端的角度理解缓存](https://github.com/BooheeFE/weekly/issues/30)
+- [2019/12/21 - Promise 源码分析](https://github.com/BooheeFE/weekly/issues/29)
+- [2018/12/16 - 你该知道的Babel7](https://github.com/BooheeFE/weekly/issues/28)
 - [2018/12/10 - redux 源码分析](https://github.com/BooheeFE/weekly/issues/27)
 - [2018/11/27 - canvas中普通动效与粒子动效的实现](https://github.com/BooheeFE/weekly/issues/26)
 - [2018/11/20 - webpack原理与实践（二）：实现一个webpack插件](https://github.com/BooheeFE/weekly/issues/25)
