@@ -19,6 +19,7 @@
 
 ### 近期weekly
 
+- [2019/03/14 - 如何理解并应用贝塞尔曲线](https://github.com/BooheeFE/weekly/issues/31)
 - [2019/01/14 - 从前端的角度理解缓存](https://github.com/BooheeFE/weekly/issues/30)
 - [2019/12/21 - Promise 源码分析](https://github.com/BooheeFE/weekly/issues/29)
 - [2018/12/16 - 你该知道的Babel7](https://github.com/BooheeFE/weekly/issues/28)
