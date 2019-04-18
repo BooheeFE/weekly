@@ -8,7 +8,7 @@
 
 欢迎大家贡献越来越多的文章！
 
-### 编辑
+### 贡献人员
 - 吴胜斌[@simbawus](https://github.com/simbawus)
 - 刘洪运[@lance10030](https://github.com/lance10030)
 - 席焱鑫[@Xpig4432xyx](https://github.com/Xpig4432xyx)
